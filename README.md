@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @bastelklausi
-- 👀 I’m interested in Arduino, Fischertechnik, ESP32, ESP8266.
-- 🌱 I’m currently learning Arduino C, Python, Fischertechnik Robo Pro Coding.
-- 💞️ I’m currently using github to make my programs available for others.
-- 📫 Currently you cannot reach me.
+- 👋 Hi,
+- I have created a small Arduino Nano based controller for Fischertechnik models. It supports 9 V FT power supply. Up to 2 motors, 3 LEDs, 4 analogue inputs, a poti for configuration and an interface to I2C based display.
 
 <!---
 bastelklausi/bastelklausi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
